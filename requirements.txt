@@ -1,5 +1,3 @@
-fastapi
-uvicorn
-notion-client
-requests
-python-dotenv
+git add .
+git commit -m "requirements.txt 수정"
+git push origin main
