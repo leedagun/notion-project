@@ -1,0 +1,4 @@
+flask
+notion-client
+requests
+python-dotenv
